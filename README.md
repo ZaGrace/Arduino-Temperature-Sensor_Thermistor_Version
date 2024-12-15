@@ -23,7 +23,8 @@ This project is a temperature sensor system using an Arduino and a thermistor to
 - **LCD Display**: Connected to the Arduino using the **I2C interface** (SDA to A4, SCL to A5 for the Uno R3).
 
 ## Wiring Diagram
-(Include a simple diagram or a reference to one showing how to connect the thermistor, resistor, and LCD to the Arduino.)
+![image](https://github.com/user-attachments/assets/3b3c6f89-4441-423f-afc1-255626ab3f4c)
+
 
 ## Installation
 1. Clone or download this repository to your local machine.
